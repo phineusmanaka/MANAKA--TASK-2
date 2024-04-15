@@ -104,3 +104,12 @@ footer ul li a {
     color: #fff;
     text-decoration: none;
 }
+navbar {
+  
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between; /* Align logo and links */
+    align-items: center; /* Align items vertically */
+}
+
